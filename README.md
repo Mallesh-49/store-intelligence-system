@@ -1,4 +1,5 @@
 # Store Intelligence System
+You can click on this to check the website: https://store-intelligence-system-production-e93a.up.railway.app/
 
 ## Overview
 
